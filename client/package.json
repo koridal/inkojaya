@@ -18,6 +18,7 @@
     "firebase": "^10.12.2",
     "flowbite-react": "^0.8.0",
     "framer-motion": "^11.3.8",
+    "inko-ver1.0": "file:..",
     "moment": "^2.30.1",
     "react": "^18.2.0",
     "react-circular-progressbar": "^2.1.0",
